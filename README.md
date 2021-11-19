@@ -20,11 +20,17 @@ BMXLEG: Upper Leg Length (cm)
 
 # K- means (K=2)
 
+![Kmeans2](https://user-images.githubusercontent.com/53411455/142702682-f86d73ca-4af1-431e-85b1-14d104bbf123.png)
+
+
 ■■ Waist 77.8 cm, upper leg length 37.7 cm
 
 ■■ Waist 107.9 cm, upper leg length 38.8 cm
 
 # K- means ( K=4)
+
+![Kmeans3](https://user-images.githubusercontent.com/53411455/142702691-510c8e00-4e89-4759-94b4-bb71eda09ec2.png)
+
 
 ■■ Waist 67.3 cm, upper leg length 36.0 cm
 
